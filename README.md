@@ -1,4 +1,6 @@
 # JavaScript-Arrays-Methods-Properties
+
+output:
 apple                                                
 orange
 mango
